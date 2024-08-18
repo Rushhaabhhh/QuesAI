@@ -12,10 +12,9 @@
         "dest": "/index.js"
       }
     ],
-    "functions": {
-        "api/*.js": {
-            "memory": 1024,
-            "maxDuration": 10
+    { "functions": {
+        "api/users/**/*.js": {
+          "maxDuration": 30
         }
     }
 }
