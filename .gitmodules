@@ -1,0 +1,3 @@
+[submodule "QuesAIClient"]
+	path = QuesAIClient
+	url = https://github.com/Rushhaabhhh/QuesAIClient.git
